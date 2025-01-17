@@ -1,0 +1,9 @@
+Processing....
+100 Alan Jones 375.31
+300 Mary Smith 89.30
+Unmatched transaction record for account 400
+Unmatched transaction record for account 900
+300 Mary Smith 173.19
+700 Suzy Green 66.56
+700 Suzy Green 68.09
+500 Sam Sharp 0.00
